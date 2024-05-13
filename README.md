@@ -1,2 +1,2 @@
-Stellar Burger 
-CRA-заготовка и структура папок под компоненты"
+Проект Stellar Burger  
+
